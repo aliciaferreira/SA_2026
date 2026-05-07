@@ -1,0 +1,47 @@
+{
+    "proyecto": "Práctica de Git - Curso de Programación",
+    "descripcion": "Archivo para que los estudiantes practiquen comandos básicos de Git",
+    "instrucciones": [
+      "1. Ir al repositorio de la materia en GitHub",
+      "2. Clona tu repositorio localmente",
+      "3. Crea una nueva rama con tu nombre y apellido",
+      "4. Agrega tu información en la sección 'estudiantes'",
+      "5. Haz commit de tus cambios",
+      "6. Sube tu rama al repositorio",
+      "7. Crea un Pull Request"
+    ],
+    "estudiantes": [
+      {
+        "nombre": "Alicia",
+        "usuario_github": "aliciaferreira",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "¡Nadie se salva solo!",
+        "fecha_contribucion": "22 de Mayo de 2025"
+      }
+  
+    ],
+    "conceptos_git_practicados": [
+      "git clone",
+      "git branch",
+      "git checkout",
+      "git add",
+      "git commit",
+      "git push",
+      "git pull request"
+    ],
+    "recursos_adicionales": {
+      "documentacion_git": "https://git-scm.com/doc",
+      "tutorial_interactivo": "https://learngitbranching.js.org/",
+      "cheat_sheet": "https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    "reglas_contribucion": {
+      "formato_commit": "Usar mensajes descriptivos en inglés",
+      "naming_branches": "usar-guiones-y-minusculas",
+      "codigo_conducta": "Ser respetuoso y colaborativo"
+    },
+    "estadisticas": {
+      "total_estudiantes": 1,
+      "ultima_actualizacion": "07 de mayo de 2026",
+      "version": "1.0.0"
+    }
+  }
