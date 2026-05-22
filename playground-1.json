@@ -12,12 +12,22 @@
     ],
     "estudiantes": [
       {
+        "nombre": "Alicia",
+        "usuario_github": "aliciaferreira",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "¡Nadie se salva solo!",
+        "fecha_contribucion": "22 de Mayo de 2025"
+      }
+    ]
+      [
+      {
         "nombre": "Aldana Aguila",
         "usuario_github": "aldanaaguila",
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Tu puedes, animo!",
         "fecha_contribucion": "21 de Mayo de 2025"
       }
+  
   
     ],
     "conceptos_git_practicados": [
