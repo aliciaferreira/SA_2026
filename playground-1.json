@@ -17,6 +17,13 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+      {
+        "nombre": "Nahuel",
+        "usuario_github": "NahuelSaucedo277",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Para llegar donde nunca antes has llegado, tendras que esforzarte como nunca antes lo has hecho.",
+        "fecha_contribucion": "28 de Mayo de 2026"
       }
   
     ],
@@ -40,7 +47,7 @@
       "codigo_conducta": "Ser respetuoso y colaborativo"
     },
     "estadisticas": {
-      "total_estudiantes": 1,
+      "total_estudiantes": 2,
       "ultima_actualizacion": "07 de mayo de 2026",
       "version": "1.0.0"
     }
