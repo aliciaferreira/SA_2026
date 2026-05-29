@@ -16,8 +16,17 @@
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
-        "fecha_contribucion": "22 de Mayo de 2025"
-      }
+        "fecha_contribucion": "22 de Mayo de 2025" 
+      } ,
+      
+       {
+        "nombre": "Leonardo Ramos",
+        "usuario_github": "leonardoramos",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "con_esfuerzo_se_puede",
+        "fecha_contribucion": "28 de Mayo de 2026"
+    
+       }
   
     ],
     "conceptos_git_practicados": [
