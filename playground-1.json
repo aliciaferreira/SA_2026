@@ -17,8 +17,18 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
-      }
+      },
   
+     {
+        "nombre": "Agustin Cespedes",
+        "usuario_github": "CespedesAgustin",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "¡Así estaba cuando llegué!",
+        "fecha_contribucion": "4 de Junio de 2026"
+      }
+
+
+
     ],
     "conceptos_git_practicados": [
       "git clone",
