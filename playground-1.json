@@ -17,8 +17,16 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
-      }
+      },
   
+{
+      "nombre": "Micaela",
+      "usuario_github": "garciamicaela",
+      "lenguaje_favorito": "PHP",
+      "frase_motivacional": "El riesgo es optimismo",
+      "fecha_contribucion": "08 de junio de 2026"
+  }
+
     ],
     "conceptos_git_practicados": [
       "git clone",
