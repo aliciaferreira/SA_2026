@@ -17,8 +17,19 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+        
+      },
+
+      {
+        "nombre": "Santos",
+        "usuario_github": "mamaniSantos",
+        "lenguaje_favorito": "JAVA",
+        "frase_motivacional": "¡Hoy es un buen día para empezar!",
+        "fecha_contribucion": "11 de Junio de 2026"
+        
       }
-  
+
+      
     ],
     "conceptos_git_practicados": [
       "git clone",
