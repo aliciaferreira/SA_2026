@@ -17,8 +17,16 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+      
+      {
+        "nombre": "Melany",
+        "usuario_github": "melrodriguez-png",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "¿Cuánto falta para el receso?",
+        "fecha_contribucion": "11 de Junio de 2026"
       }
-  
+ 
     ],
     "conceptos_git_practicados": [
       "git clone",
