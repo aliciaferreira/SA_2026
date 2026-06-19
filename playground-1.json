@@ -20,6 +20,13 @@
         "fecha_contribucion": "22 de Mayo de 2025"
       },
       {
+        "nombre": "Gonzalo Ponce",
+        "usuario_github": "gonzaloponceit",
+        "lenguaje_favorito": "C#",
+        "frase_motivacional": "¡Llegamos solos, nos vamos solos!",
+        "fecha_contribucion": "26 de Mayo de 2026"
+      },
+      {
         "nombre": "Agustín",
         "usuario_github": "AgustinFer",
         "lenguaje_favorito": "PHP",
@@ -33,8 +40,7 @@
         "frase_motivacional": "¡Animo, tu puedes!",
         "fecha_contribucion": "28 de Mayo de 2026"
       }
-  
-  
+
     ],
     "conceptos_git_practicados": [
       "git clone",
