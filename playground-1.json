@@ -15,8 +15,23 @@
         "nombre": "Alicia",
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+      {
+        "nombre": "Gonzalo Ponce",
+        "usuario_github": "gonzaloponceit",
+        "lenguaje_favorito": "C#",
+        "frase_motivacional": "¡Llegamos solos, nos vamos solos!",
+        "fecha_contribucion": "26 de Mayo de 2026"
+      },
+      {
+        "nombre": "Agustín",
+        "usuario_github": "AgustinFer",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Merge, no voy a mentirte...",
+        "fecha_contribucion": "26 de Mayo de 2026"
       },
       {
         "nombre": "Aldana Aguila",
@@ -25,15 +40,6 @@
         "frase_motivacional": "¡Animo, tu puedes!",
         "fecha_contribucion": "28 de Mayo de 2026"
       }
-      {
-        "nombre": "Aldana Aguila",
-        "usuario_github": "aldanaaguila",
-        "lenguaje_favorito": "PHP",
-        "frase_motivacional": "¡Animo, tu puedes!",
-        "fecha_contribucion": "25 de Mayo de 2025"
-      }
-  
-  
     ],
     "conceptos_git_practicados": [
       "git clone",
