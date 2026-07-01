@@ -39,6 +39,13 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Animo, tu puedes!",
         "fecha_contribucion": "28 de Mayo de 2026"
+      },
+      {
+        "nombre": "Enzo Blanco",
+        "usuario_github": "EnzoBlanco",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "si te portas mal, hay puerta",
+        "fecha_contribucion": "1 de julio de 2026"
       }
 
     ],
