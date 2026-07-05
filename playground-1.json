@@ -1,6 +1,5 @@
 
-{
-  "proyecto": "Práctica de Git - Curso de Programación",
+"proyecto": "Práctica de Git - Curso de Programación",
   "descripcion": "Archivo para que los estudiantes practiquen comandos básicos de Git",
   "instrucciones": [
     "1. Ir al repositorio de la materia en GitHub",
@@ -16,13 +15,15 @@
       "nombre": "Alicia",
       "usuario_github": "aliciaferreira",
       "lenguaje_favorito": "PHP",
+      "me_gustaria_trabajar_de": "Docente y Desarrolladora",
       "frase_motivacional": "¡Nadie se salva solo!",
       "fecha_contribucion": "22 de Mayo de 2025"
     },
     {
-      "nombre": "Tomas Ilardo",                 
+      "nombre": "Tomas Ilardo",                  
       "usuario_github": "tomasilardo2026-debug",        
-       "lenguaje_favorito": "python",         
+      "lenguaje_favorito": "python",         
+      "me_gustaria_trabajar_de": "Vendedor Técnico o Desarrollador",
       "frase_motivacional": "Primero dios siempre",     
       "fecha_contribucion": "07 de Junio de 2026"
     }
@@ -48,7 +49,8 @@
   },
   "estadisticas": {
     "total_estudiantes": 2,
-    "ultima_actualizacion": "07 de junio de 2026",
+    "ultima_actualizacion": "05 de julio de 2026",
     "version": "1.0.0"
   }
-}
+
+
