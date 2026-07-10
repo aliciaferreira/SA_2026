@@ -15,10 +15,66 @@
         "nombre": "Alicia",
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
+
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+
+      {
+        "nombre": "Tobias",
+        "usuario_github": "tobiassantiagok",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Ciber seguridad",
+        "frase_motivacional": "Nunca es tarde para empezar de nuevo!",
+        "fecha_contribucion": "02 de Junio de 2026"
+
+         
+      },
+      {
+        "nombre": "Leonardo Ramos",
+        "usuario_github": "leonardoramos",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "con_esfuerzo_se_puede",
+        "fecha_contribucion": "28 de Mayo de 2026"
+      },
+      {
+        "nombre": "Flavia",
+        "usuario_github": "FlaviaBenoit",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "El esfuerzo no se negocia",
+        "fecha_contribucion": "29 de Mayo de 2026"
+      },
+      {
+        "nombre": "Nahuel",
+        "usuario_github": "NahuelSaucedo277",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Para llegar donde nunca antes has llegado, tendras que esforzarte como nunca antes lo has hecho.",
+        "fecha_contribucion": "28 de Mayo de 2026"
+      },
+      {
+        "nombre": "Gonzalo Ponce",
+        "usuario_github": "gonzaloponceit",
+        "lenguaje_favorito": "C#",
+        "frase_motivacional": "¡Llegamos solos, nos vamos solos!",
+        "fecha_contribucion": "26 de Mayo de 2026"
+      },
+      {
+        "nombre": "Agustín",
+        "usuario_github": "AgustinFer",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Merge, no voy a mentirte...",
+        "fecha_contribucion": "26 de Mayo de 2026"
+      },
+      {
+        "nombre": "Aldana Aguila",
+        "usuario_github": "aldanaaguila",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "¡Animo, tu puedes!",
+        "fecha_contribucion": "28 de Mayo de 2026"
+ 
       }
-  
+
     ],
     "conceptos_git_practicados": [
       "git clone",
@@ -40,8 +96,8 @@
       "codigo_conducta": "Ser respetuoso y colaborativo"
     },
     "estadisticas": {
-      "total_estudiantes": 1,
-      "ultima_actualizacion": "07 de mayo de 2026",
+      "total_estudiantes": 2,
+      "ultima_actualizacion": "28 de mayo de 2026",
       "version": "1.0.0"
     }
   }
