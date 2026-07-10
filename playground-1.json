@@ -60,6 +60,13 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Animo, tu puedes!",
         "fecha_contribucion": "28 de Mayo de 2026"
+      },
+      {
+        "nombre": "Gonzalo Medina",
+        "usuario_github": "gonzalomedinatsas",
+        "lenguaje_favorito": "C++",
+        "frase_motivacional": "¡Que la Fuerza te acompañe!",
+        "fecha_contribucion": "09 de Julio de 2026"
       }
 
     ],
