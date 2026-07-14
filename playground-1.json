@@ -17,7 +17,28 @@
         "lenguaje_favorito": "PHP",
         "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
-        "fecha_contribucion": "22 de Mayo de 2025"
+        "fecha_contribucion": "22 de Mayo de 2025" 
+      },
+      {
+        "nombre": "Leonardo Ramos",
+        "usuario_github": "leonardoramos",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "con_esfuerzo_se_puede",
+        "fecha_contribucion": "28 de Mayo de 2026"
+      },
+      {
+        "nombre": "Flavia",
+        "usuario_github": "FlaviaBenoit",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "El esfuerzo no se negocia",
+        "fecha_contribucion": "29 de Mayo de 2026"
+      },
+      {
+        "nombre": "Nahuel",
+        "usuario_github": "NahuelSaucedo277",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Para llegar donde nunca antes has llegado, tendras que esforzarte como nunca antes lo has hecho.",
+        "fecha_contribucion": "28 de Mayo de 2026"
       },
       {
         "nombre": "Gonzalo Ponce",
