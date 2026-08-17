@@ -18,7 +18,23 @@
         "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+
+        
       },
+
+      {
+        "nombre": "Santos",
+        "usuario_github": "mamaniSantos",
+        "lenguaje_favorito": "Javascript",
+        "Me gustaria trabajar de:": "Programador",
+        "frase_motivacional": "¡Hoy es un buen día para empezar!",
+        "fecha_contribucion": "11 de Junio de 2026"
+        
+      }
+
+      
+
+      ,
       {
         "nombre": "EZEQUIELSCHMIDT",
         "usuario_github": "ezequiel545",
@@ -113,6 +129,7 @@
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
       }
+
 
     ],
     "conceptos_git_practicados": [
