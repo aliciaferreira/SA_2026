@@ -104,8 +104,15 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "El riesgo es optimismo",
         "fecha_contribucion": "16 de julio de 2026"
+      },
+      {
+        "nombre": "Mateo Davola",
+        "usuario_github": "Mateo17d",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
+        "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
+        "fecha_contribucion": "26 de Junio de 2026"
       }
-
 
     ],
     "conceptos_git_practicados": [
