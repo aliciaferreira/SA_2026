@@ -20,6 +20,15 @@
         "fecha_contribucion": "22 de Mayo de 2025"
       },
       {
+
+        "nombre": "Viviana",
+        "usuario_github": "vivianamarin",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas",
+        "frase_motivacional": "¡Nunca rendirse!",
+        "fecha_contribucion": "13 de septiembre de 2026"
+      },
+      {
         "nombre": "Matias",
         "usuario_github": "SantamariaMatias",
         "lenguaje_favorito": "Python",
@@ -152,6 +161,8 @@
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
       }
+
+
     ],
     "conceptos_git_practicados": [
       "git clone",
