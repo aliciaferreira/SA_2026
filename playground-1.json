@@ -20,16 +20,15 @@
         "fecha_contribucion": "22 de Mayo de 2025"
       },
       {
-<<<<<<< HEAD
+
         "nombre": "Viviana",
         "usuario_github": "vivianamarin",
         "lenguaje_favorito": "PHP",
-        "frase_motivacional": "Nunca rendirse",
-     
-        "fecha_contribucion": "1 de Junio de 2026"
-     }
+        "frase_motivacional": "¡Nunca rendirse!",
+        "fecha_contribucion": "13 de septiembre de 2026"
+      },
   
-=======
+      {
         "nombre": "Gonzalo Ponce",
         "usuario_github": "gonzaloponceit",
         "lenguaje_favorito": "C#",
@@ -51,7 +50,7 @@
         "fecha_contribucion": "28 de Mayo de 2026"
       }
 
->>>>>>> develop
+
     ],
     "conceptos_git_practicados": [
       "git clone",
