@@ -151,6 +151,13 @@
         "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
+      },
+      {
+        "nombre": "Elian Gonzalez",
+        "usuario_github": "elian212",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Hecho es mejor que perfecto",
+        "fecha_contribucion": "14 de septiembre 2026"
       }
     ],
     "conceptos_git_practicados": [
