@@ -151,7 +151,17 @@
         "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
+      },
+      {
+        "nombre": "Melany",
+        "usuario_github": "melrodriguez-png",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Profesora de Matematica e Informática",
+        "frase_motivacional": "Estoy cansada, necesito terminar el año.",
+        "fecha_contribucion": "08 de Octubre de 2025"
       }
+
+
     ],
     "conceptos_git_practicados": [
       "git clone",
