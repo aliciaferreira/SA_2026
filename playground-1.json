@@ -151,7 +151,14 @@
         "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
-      }
+      },
+      {
+        "nombre": "Daiana Martinez",
+        "usuario_github": "daianamartinez20",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "La vida es corta, pero los recuerdos son eternos",
+        "fecha_contribucion": "10 de octubre de 2026"
+      },
     ],
     "conceptos_git_practicados": [
       "git clone",
