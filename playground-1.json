@@ -160,6 +160,14 @@
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
       }
+            {
+        "nombre": "Elias Quiroga",
+        "usuario_github": "Harity95",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "desarrollador",
+        "frase_motivacional": "Cree en ti y lograrás todo lo que te propongas",
+        "fecha_contribucion": "22 de Octubre de 2026"
+      },
     ],
     "conceptos_git_practicados": [
       "git clone",
