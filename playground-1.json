@@ -17,7 +17,34 @@
         "lenguaje_favorito": "PHP",
         "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
+
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+
+      {
+        "nombre": "Tobias",
+        "usuario_github": "tobiassantiagok",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Ciber seguridad",
+        "frase_motivacional": "Nunca es tarde para empezar de nuevo!",
+        "fecha_contribucion": "02 de Junio de 2026"
+      },
+      {
+
+        "nombre": "Viviana",
+        "usuario_github": "vivianamarin",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas",
+        "frase_motivacional": "¡Nunca rendirse!",
+        "fecha_contribucion": "13 de septiembre de 2026"
+      },
+      {
+        "nombre": "Ariel",
+        "usuario_github": "ariel-bd",
+        "lenguaje_favorito": "Depende del día",
+        "trabajo_favorito": "Analista de Sistemas/Programador",
+        "frase_motivacional": "El cambio está en nosotros.",
+        "fecha_contribucion": "4 de Junio de 2026"
       },
       {
         "nombre": "Matias",
@@ -65,9 +92,18 @@
         "fecha_contribucion": "30 de mayo de 2026"
       },
       {
+        "nombre": "Leonel Gabioud",
+        "usuario_github": "leogabioud",
+        "lenguaje_favorito": "SourcePawn",
+        "trabajo_favorito" : "IT Operations Analyst, IT Administrator",
+        "frase_motivacional": "La factura más cara es la que te llega por ni siquiera haberlo intentado",
+        "fecha_contribucion": "13 de Julio de 2026" 
+      },
+      {
         "nombre": "Leonardo Ramos",
         "usuario_github": "leonardoramos",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "con_esfuerzo_se_puede",
         "fecha_contribucion": "28 de Mayo de 2026"
       },
@@ -90,12 +126,14 @@
         "usuario_github": "gonzaloponceit",
         "lenguaje_favorito": "C#",
         "frase_motivacional": "¡Llegamos solos, nos vamos solos!",
+        "trabajo_favorito": "desarrollador web",
         "fecha_contribucion": "26 de Mayo de 2026"
       },
       {
         "nombre": "Agustín",
         "usuario_github": "AgustinFer",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "DevOps",
         "frase_motivacional": "Merge, no voy a mentirte...",
         "fecha_contribucion": "26 de Mayo de 2026"
       },
@@ -111,6 +149,7 @@
         "nombre": "Gonzalo Medina",
         "usuario_github": "gonzalomedinatsas",
         "lenguaje_favorito": "C++",
+        "trabajo_favorito" : "Analista de Sistemas",
         "frase_motivacional": "¡Que la Fuerza te acompañe!",
         "fecha_contribucion": "09 de Julio de 2026"
       },
@@ -134,6 +173,7 @@
         "nombre": "Omonte Roa Kevin Manuel",
         "usuario_github": "komonte",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Programador Backend",
         "frase_motivacional": "Si todo funcionara la primera vez, estarías despedido.",
         "fecha_contribucion": "18 de Junio de 2026"
       },
@@ -142,6 +182,14 @@
         "usuario_github": "micaelagarciasistemas24-alt",
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "El riesgo es optimismo",
+        "fecha_contribucion": "16 de julio de 2026"
+      },
+      {
+        "nombre": "Gianluca",
+        "usuario_github": "GianlucaMazzini",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Supervisor",
+        "frase_motivacional": "¡Yo no moriré, no importa que mi cuerpo sea destruido por completo! ¡Mis deseos de pelear me levantarán porque son muy grandes! ¡Y después de eso, los derrotaré pase lo que pase!",
         "fecha_contribucion": "16 de julio de 2026"
       },
       {
@@ -159,9 +207,16 @@
         "trabajo_favorito" : " Profe de Matematica y Analista de Sistemas",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "08 de Octubre de 2026"
+      },
+      {
+        "nombre": "Elian Gonzalez",
+        "usuario_github": "elian212",
+        "lenguaje_favorito": "PHP",
+        "frase_motivacional": "Hecho es mejor que perfecto",
+        "fecha_contribucion": "14 de septiembre 2026"
       }
-       
-   
+
+
     ],
     "conceptos_git_practicados": [
       "git clone",
