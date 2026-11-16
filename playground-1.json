@@ -19,6 +19,18 @@
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
       },
+
+      {
+        "nombre" : "guillermo",
+        "usuario_github": "guillermonuñez",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas, PM",
+        "me gustaria trabajar de" : "programador",
+        "frase_motivacional": "¡ el que  busca encuentra!",
+
+        "fecha_contribucion": "10 de noviembre de  2026"
+       },
+
       {
         "nombre": "Tobias",
         "usuario_github": "tobiassantiagok",
