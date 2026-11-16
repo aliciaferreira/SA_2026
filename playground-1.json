@@ -17,9 +17,9 @@
         "lenguaje_favorito": "PHP",
         "trabajo_favorito" : "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
-
         "fecha_contribucion": "22 de Mayo de 2025"
       },
+
       {
         "nombre" : "guillermo",
         "usuario_github": "guillermonuñez",
@@ -107,8 +107,16 @@
         "lenguaje_favorito": "SourcePawn",
         "trabajo_favorito" : "IT Operations Analyst, IT Administrator",
         "frase_motivacional": "La factura más cara es la que te llega por ni siquiera haberlo intentado",
-        "fecha_contribucion": "13 de Julio de 2026" 
+        "fecha_contribucion": "13 de Julio de 2026"
       },
+    {
+      "nombre": "Jonatan rebord",
+      "usuario_github": "Rebordjonatan",
+      "lenguaje_favorito": "html",
+      "trabajo_favorito": "Administrador de bases de datos",
+      "frase_motivacional": "No te subestimes por ir mas lento.",
+      "fecha_contribucion": "24 de Mayo de 2026"
+    },
       {
         "nombre": "Leonardo Ramos",
         "usuario_github": "leonardoramos",
@@ -168,7 +176,7 @@
         "nombre": "Enzo Blanco",
         "usuario_github": "EnzoBlanco",
         "lenguaje_favorito": "PHP",
-        "me_gustaria_trabajar_de": "analista de sistema",
+        "trabajo_favorito": "analista de sistema",
         "frase_motivacional": "si te portas mal, hay puerta",
         "fecha_contribucion": "1 de julio de 2026"
       },
