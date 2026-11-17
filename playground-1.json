@@ -151,6 +151,14 @@
         "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "¡Hacer las cosas de corazon nunca es perder!",
         "fecha_contribucion": "26 de Junio de 2026"
+      },
+      {
+        "nombre": "Juan Tamagno",
+        "usuario_github": "juantamagno",
+        "lenguaje_favorito": "PHP",
+        "me gustaria trabajar de": "sistemas",
+        "frase_motivacional": "¡Nadie se salva solo/a!",
+        "fecha_contribucion": "17 de Noviembre de 2026"
       }
     ],
     "conceptos_git_practicados": [
@@ -177,4 +185,4 @@
       "ultima_actualizacion": "28 de mayo de 2026",
       "version": "1.0.0"
     }
-  }
+}
