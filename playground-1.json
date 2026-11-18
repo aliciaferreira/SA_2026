@@ -15,7 +15,7 @@
         "nombre": "Alicia",
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
-        "trabajo_favorito" : "Analista de Sistemas, PM",
+        "trabajo_favorito": "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
       },
@@ -126,9 +126,10 @@
         "fecha_contribucion": "28 de Mayo de 2026"
       },
       {
-        "nombre": "Flavia",
+        "nombre": "Flavia Benoit",
         "usuario_github": "FlaviaBenoit",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "El esfuerzo no se negocia",
         "fecha_contribucion": "29 de Mayo de 2026"
       },
