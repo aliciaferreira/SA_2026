@@ -241,10 +241,19 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "Hecho es mejor que perfecto",
         "fecha_contribucion": "14 de septiembre 2026"
+      },
+      {
+        "nombre": "Federico Romero",
+        "usuario_github": "fredromerodaniel-alt",
+        "lenguaje_favorito": "C++",
+        "Me_gustaría_trabajar_de": "Administrador de sistemas",
+        "frase_motivacional": "Tu no eres una victima del destino",
+        "fecha_contribucion": "16 de noviembre de 2026"
       }
-
-
     ],
+
+
+
     "conceptos_git_practicados": [
       "git clone",
       "git branch",
