@@ -1,5 +1,6 @@
 {
 
+
     "proyecto": "Práctica de Git - Curso de Programación",
     "descripcion": "Archivo para que los estudiantes practiquen comandos básicos de Git",
     "instrucciones": [
@@ -16,9 +17,46 @@
         "nombre": "Alicia",
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
-        "trabajo_favorito" : "Analista de Sistemas, PM",
+        "trabajo_favorito": "Analista de Sistemas, PM",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+
+      {
+        "nombre" : "guillermo",
+        "usuario_github": "guillermonuñez",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas, PM",
+        "me gustaria trabajar de" : "programador",
+        "frase_motivacional": "¡ el que  busca encuentra!",
+
+        "fecha_contribucion": "10 de noviembre de  2026"
+       },
+
+      {
+        "nombre": "Tobias",
+        "usuario_github": "tobiassantiagok",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Ciber seguridad",
+        "frase_motivacional": "Nunca es tarde para empezar de nuevo!",
+        "fecha_contribucion": "02 de Junio de 2026"
+      },
+      {
+
+        "nombre": "Viviana",
+        "usuario_github": "vivianamarin",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas",
+        "frase_motivacional": "¡Nunca rendirse!",
+        "fecha_contribucion": "13 de septiembre de 2026"
+      },
+      {
+        "nombre": "Ariel",
+        "usuario_github": "ariel-bd",
+        "lenguaje_favorito": "Depende del día",
+        "trabajo_favorito": "Analista de Sistemas/Programador",
+        "frase_motivacional": "El cambio está en nosotros.",
+        "fecha_contribucion": "4 de Junio de 2026"
       },
       {
         "nombre": "Matias",
@@ -26,6 +64,14 @@
         "lenguaje_favorito": "Python",
         "frase_motivacional": "Pedir ayuda no te hace menos capaz",
         "fecha_contribucion": "28 de Mayo de 2025"
+      },
+      {
+        "nombre": "Mauricio",
+        "usuario_github": "MauricioSpinelli1",
+        "lenguaje_favorito": "Python",
+        "trabajo_favorito": "Analista de Sistemas",
+        "frase_motivacional": "No importa qué tan lento avances; mientras sigas adelante, ya estás más cerca de donde querés estar.",
+        "fecha_contribucion": "10 de septiembre de 2026"
       },
       {
         "nombre": "Santos",
@@ -46,7 +92,7 @@
         "nombre": "Agustin Cespedes",
         "usuario_github": "CespedesAgustin",
         "lenguaje_favorito": "PHP",
-        "Me gustaría trabajar de" : "Soporte técnico con computadoras y servidores",
+        "trabajo_favorito" : "Soporte técnico con computadoras y servidores",
         "frase_motivacional": "¡Así estaba cuando llegué!",
         "fecha_contribucion": "4 de Junio de 2026"
       },
@@ -66,16 +112,34 @@
         "fecha_contribucion": "30 de mayo de 2026"
       },
       {
+        "nombre": "Leonel Gabioud",
+        "usuario_github": "leogabioud",
+        "lenguaje_favorito": "SourcePawn",
+        "trabajo_favorito" : "IT Operations Analyst, IT Administrator",
+        "frase_motivacional": "La factura más cara es la que te llega por ni siquiera haberlo intentado",
+        "fecha_contribucion": "13 de Julio de 2026"
+      },
+    {
+      "nombre": "Jonatan rebord",
+      "usuario_github": "Rebordjonatan",
+      "lenguaje_favorito": "html",
+      "trabajo_favorito": "Administrador de bases de datos",
+      "frase_motivacional": "No te subestimes por ir mas lento.",
+      "fecha_contribucion": "24 de Mayo de 2026"
+    },
+      {
         "nombre": "Leonardo Ramos",
         "usuario_github": "leonardoramos",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "con_esfuerzo_se_puede",
         "fecha_contribucion": "28 de Mayo de 2026"
       },
       {
-        "nombre": "Flavia",
+        "nombre": "Flavia Benoit",
         "usuario_github": "FlaviaBenoit",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
         "frase_motivacional": "El esfuerzo no se negocia",
         "fecha_contribucion": "29 de Mayo de 2026"
       },
@@ -83,6 +147,7 @@
         "nombre": "Nahuel",
         "usuario_github": "NahuelSaucedo277",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Analista de Sistemas",
         "frase_motivacional": "Para llegar donde nunca antes has llegado, tendras que esforzarte como nunca antes lo has hecho.",
         "fecha_contribucion": "28 de Mayo de 2026"
       },
@@ -91,12 +156,14 @@
         "usuario_github": "gonzaloponceit",
         "lenguaje_favorito": "C#",
         "frase_motivacional": "¡Llegamos solos, nos vamos solos!",
+        "trabajo_favorito": "desarrollador web",
         "fecha_contribucion": "26 de Mayo de 2026"
       },
       {
         "nombre": "Agustín",
         "usuario_github": "AgustinFer",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "DevOps",
         "frase_motivacional": "Merge, no voy a mentirte...",
         "fecha_contribucion": "26 de Mayo de 2026"
       },
@@ -112,6 +179,7 @@
         "nombre": "Gonzalo Medina",
         "usuario_github": "gonzalomedinatsas",
         "lenguaje_favorito": "C++",
+        "trabajo_favorito" : "Analista de Sistemas",
         "frase_motivacional": "¡Que la Fuerza te acompañe!",
         "fecha_contribucion": "09 de Julio de 2026"
       },
@@ -119,7 +187,7 @@
         "nombre": "Enzo Blanco",
         "usuario_github": "EnzoBlanco",
         "lenguaje_favorito": "PHP",
-        "me_gustaria_trabajar_de": "analista de sistema",
+        "trabajo_favorito": "analista de sistema",
         "frase_motivacional": "si te portas mal, hay puerta",
         "fecha_contribucion": "1 de julio de 2026"
       },
@@ -135,6 +203,7 @@
         "nombre": "Omonte Roa Kevin Manuel",
         "usuario_github": "komonte",
         "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Programador Backend",
         "frase_motivacional": "Si todo funcionara la primera vez, estarías despedido.",
         "fecha_contribucion": "18 de Junio de 2026"
       },
@@ -142,7 +211,16 @@
         "nombre": "Garcia Micaela",
         "usuario_github": "micaelagarciasistemas24-alt",
         "lenguaje_favorito": "PHP",
-        "frase_motivacional": "El riesgo es optimismo",
+        "trabajo_favorito": "Analista de Sistema",
+        "frase_motivacional": "El riesgo es optimismo.",
+        "fecha_contribucion": "16 de julio de 2026"
+      },
+      {
+        "nombre": "Gianluca",
+        "usuario_github": "GianlucaMazzini",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Supervisor",
+        "frase_motivacional": "¡Yo no moriré, no importa que mi cuerpo sea destruido por completo! ¡Mis deseos de pelear me levantarán porque son muy grandes! ¡Y después de eso, los derrotaré pase lo que pase!",
         "fecha_contribucion": "16 de julio de 2026"
       },
       {
@@ -157,10 +235,50 @@
         "nombre": "Daiana Martinez",
         "usuario_github": "daianamartinez20",
         "lenguaje_favorito": "PHP",
-        "Me gustaria trabajar de":"Analista de Sistemas",
+        "trabajo_favorito":"Analista de Sistemas",
         "frase_motivacional": "La vida es corta, pero los recuerdos son eternos",
         "fecha_contribucion": "10 de octubre de 2026"
       },
+      {    "nombre": "Elias Quiroga",
+        "usuario_github": "Harity95",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Desarrollador y Tester",
+        "frase_motivacional": "Cree en ti y lograrás todo lo que te propongas",
+        "fecha_contribucion": "22 de Octubre de 2026"
+      },
+      {
+        "nombre": "Melany",
+        "usuario_github": "melrodriguez-png",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : "Profesora de Matematica e Informática",
+        "frase_motivacional": "Estoy cansada, necesito terminar el año ya por favor.",
+        "fecha_contribucion": "08 de Octubre de 2026"
+      },
+      {
+        "nombre": "Daniela Alejandra",
+        "usuario_github": "enriquedanielaalejandra-rgb",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito" : " Profe de Matematica y Analista de Sistemas",
+        "frase_motivacional": "¡Nadie se salva solo!",
+        "fecha_contribucion": "08 de Octubre de 2026"
+      },
+      {
+        "nombre": "Elian Gonzalez",
+        "usuario_github": "elian212",
+        "lenguaje_favorito": "PHP",
+        "trabajo_favorito": "Analista de Sistemas",
+        "frase_motivacional": "Hecho es mejor que perfecto",
+        "fecha_contribucion": "14 de septiembre 2026"
+      },
+      {
+        "nombre": "Martin Diaz",
+        "usuario_github": "martin-diaz98",
+        "lenguaje_favorito": "html",
+        "trabajo_favorito": "Barman",
+        "frase_motivacional": "se que puedo solo y por eso sigo!",
+        "fecha_contribucion": "19 de Noviembre 2026"
+      }
+
     ],
     "conceptos_git_practicados": [
       "git clone",
@@ -186,9 +304,10 @@
       "ultima_actualizacion": "28 de mayo de 2026",
       "version": "1.0.0"
     }
-  }
-=======
-  "proyecto": "Práctica de Git - Curso de Programación",
+  },
+
+
+
   "descripcion": "Archivo para que los estudiantes practiquen comandos básicos de Git",
   "instrucciones": [
     "1. Ir al repositorio de la materia en GitHub",
@@ -243,3 +362,5 @@
   }
 }
 
+=======
+>>>>>>> develop
